@@ -4,6 +4,7 @@
 💥 education: Electrical Engineer - Universidade de Brasília (UnB) / Information Security - UniCEUB
 🎹 hobby: experimental music listener / electronic music composer
 
+```python
 gabe ={ 
     "name": "Higor Gabriel Araujo Alves de Souza",
     "pronouns": "he/him",
@@ -15,3 +16,4 @@ gabe ={
     },
     "contact": "gabriel.hga95@gmail.com"
 }
+```
