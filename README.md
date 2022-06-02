@@ -1,7 +1,9 @@
 🐙 Hello, I’m Higor Souza aka gabe
 
 💾 occupation: Data Engineer/BI Analyst
+
 💥 education: Electrical Engineer - Universidade de Brasília (UnB) / Information Security - UniCEUB
+
 🎹 hobby: experimental music listener / electronic music composer
 
 ```python
@@ -17,3 +19,4 @@ gabe ={
     "contact": "gabriel.hga95@gmail.com"
 }
 ```
+
