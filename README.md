@@ -1,6 +1,6 @@
 🐙 Hello, I’m Higor Souza aka gabe
 
-💾 occupation: Data Engineer/BI Analyst
+💾 occupation: Data Architect and Engineer
 
 💥 education: Electrical Engineer - Universidade de Brasília (UnB) / Information Security - UniCEUB
 
@@ -12,8 +12,8 @@ gabe ={
     "pronouns": "he/him",
     "technologies": {
         "languages": ['Python', 'Bash', 'C', 'Javascript'],
-        "bi_etl": ['PowerBI', 'Qlik sense', 'Pentaho', 'Airflow'],
-        "databases": ['PostgreSQL', 'MySQL'],
+        "tech": ['Spark', 'Airflow', 'Pentaho', 'AWS Suit'],
+        "databases": ['PGSQL', 'MySQL', 'Oracle', 'MSSQL', 'MongoDB'],
         "cloud_services": 'AWS'
     },
     "contact": "gabriel.hga95@gmail.com"
